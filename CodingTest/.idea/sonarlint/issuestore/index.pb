@@ -12,3 +12,5 @@ X
 (src/killingcamp/완탐/permutations.java,e/8/e88ad2dfd12f3e7f3f4839a05566a5f05b47db5b
 X
 (src/killingcamp/완탐/combinations.java,8/2/828a5e21f8057fa19798cd6bfe2eb4310acf4c72
+S
+#src/killingcamp/완탐/subsets.java,9/b/9b799b55891e2eed30aa69037b93280eb4efe0da
