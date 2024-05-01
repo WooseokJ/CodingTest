@@ -18,12 +18,8 @@ public class permutations {
     public static void dfs(List<List<Integer>> result, List<Integer> preElements, List<Integer> elements) {
         // 리프노드 도달.
         if(elements.isEmpty()) {
-            System.out.println(preElements);
             // preElements 내용 결과에 삽입.
             List<Integer> collect = preElements.stream().collect(Collectors.toList());
-            for(Integer c : collect)
-                System.out.printf("%d ",c);
-            System.out.println();
             result.add(collect);
         }
         // 전달받은  요소들 모두 탐색.

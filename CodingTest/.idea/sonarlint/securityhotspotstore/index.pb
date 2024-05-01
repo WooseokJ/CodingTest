@@ -10,3 +10,5 @@ R
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 X
 (src/killingcamp/완탐/permutations.java,e/8/e88ad2dfd12f3e7f3f4839a05566a5f05b47db5b
+X
+(src/killingcamp/완탐/combinations.java,8/2/828a5e21f8057fa19798cd6bfe2eb4310acf4c72
