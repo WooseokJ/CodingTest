@@ -1,7 +1,5 @@
-package killingcamp.완탐;
+package killingcamp.완탐.example;
 
-
-import jdk.jfr.Enabled;
 
 public class TwoSum {
 

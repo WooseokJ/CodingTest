@@ -1,4 +1,4 @@
-package killingcamp.완탐;
+package killingcamp.완탐.example;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

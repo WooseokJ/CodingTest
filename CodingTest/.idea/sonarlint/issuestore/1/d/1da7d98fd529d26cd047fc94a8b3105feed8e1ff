@@ -1,0 +1,10 @@
+
+w
+java:S10660"/Merge this if statement with the enclosing one.(Í¢Ô”şÿÿÿÿ8¤’ó1J$7594e7b6-4c82-47df-85d5-30093883596a
+˜	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ñ³¸üÿÿÿÿ8¦˜‹ó1J$f37abee0-1cd0-478d-b756-9b377e3fb23b
+’	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹æ×;8¦˜‹ó1J$682c047c-50ee-4f06-84ad-d5406ad1b7b8
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼†¯98§˜‹ó1J$ad004185-5718-4d97-84bb-fa14e0a23407
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8¨˜‹ó1J$e1aa6783-b706-40e3-b597-32ede21d3f5e
+r	java:S106"+Replace this use of System.out by a logger.(¶ö©°øÿÿÿÿ8Æ˜‹ó1J$0a5e8359-3ca1-468e-85e1-8495682ddb0b
+~
+java:S1172"6Remove these unused method parameters "board", "word".(¶ßôøÿÿÿÿ8Ç˜‹ó1J$4f7508ab-0902-4123-ae76-7e296667fab4

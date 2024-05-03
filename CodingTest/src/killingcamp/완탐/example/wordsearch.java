@@ -1,6 +1,4 @@
-package killingcamp.완탐;
-
-import java.util.ArrayList;
+package killingcamp.완탐.example;
 
 public class wordsearch {
     static char[][] board = {

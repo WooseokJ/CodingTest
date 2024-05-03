@@ -1,0 +1,12 @@
+
+w
+java:S10662"/Merge this if statement with the enclosing one.(Í¢Ô”şÿÿÿÿ8¤’ó1J$68fa119c-f191-44ae-9647-82f42b7eccc8
+˜	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ñ³¸üÿÿÿÿ8¦˜‹ó1J$80ce7c9c-3e77-4021-aaae-03a7c2fd52c8
+’	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹æ×;8¦˜‹ó1J$cea70e3d-a186-48de-84b9-dcfafca9e97e
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼†¯98§˜‹ó1J$3c20344f-6a9e-4831-aeb6-6a0f51cc782c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚å·8¨˜‹ó1J$27e2cc37-e32d-4f3a-b402-c94d0049d105
+r	java:S106"+Replace this use of System.out by a logger.(¶ö©°øÿÿÿÿ8Æ˜‹ó1J$2716d6b7-dbce-408e-94f2-9cef5929e7f5
+~
+java:S1172"6Remove these unused method parameters "board", "word".(¶ßôøÿÿÿÿ8Ç˜‹ó1J$1ed7966e-03df-4cc4-a536-53650b1ebe87
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8÷Ø•ó1J$c38ebb42-b929-4573-843e-04dccba3b65a

@@ -1,0 +1,7 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ¡³Ãûÿÿÿÿ8Î‡Ùó1J$71c143e7-311f-4d8c-a9fd-d86ce8dfae0e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8Ï‡Ùó1J$34c5e0fc-b160-4c5a-8759-8f75de567320
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(Š•’8Ú‡Ùó1J$cece0da3-bb77-41ed-af91-75dc8e49369e
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(¶’éë8Ü‡Ùó1J$bbb3de09-e9a7-46ff-a1ef-961b72aa4fb2
