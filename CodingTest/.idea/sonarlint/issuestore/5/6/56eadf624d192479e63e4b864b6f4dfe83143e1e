@@ -1,4 +1,12 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ¸åşÿÿÿÿ8ÍàÙó1J$3e353fec-1bb8-482e-a044-61b8bc74d2bd
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8ÎàÙó1J$fe4da5e1-31d5-4408-b748-383a0565b754
-r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ØÚó1J$32ffce79-63ee-4090-91f0-028eeaa4c45c
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ¸åşÿÿÿÿ8·¾·ìó1J$57025b37-ca75-408b-b7fd-d42036461c02
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8¸¾·ìó1J$eac601ac-52d7-4bdb-82dd-d0414e99cbe0
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(³ƒÜôøÿÿÿÿ8äı·ìó1J$2462f4d6-5c6f-47b3-8e46-74cf664b9c50
+r	java:S106"+Replace this use of System.out by a logger.(™ó¬‡ùÿÿÿÿ8¿¾·ìó1J$b63e60e6-8afb-4f25-899c-53a081aa1acf
+l
+java:S5413")Verify that "remove()" is used correctly.(÷ä£Ô8ë¨Àìó1J$d35ac4f4-b454-44ce-a747-c3db2bf5ac1a
+y
+java:S1128"1Remove this unused import 'java.util.ArrayDeque'.(†®ŞÖúÿÿÿÿ8ı»ìó1J$26370089-b295-4260-b303-071af5084c4c
+t
+java:S1128",Remove this unused import 'java.util.Deque'.(³Ã¯¥şÿÿÿÿ8ı»ìó1J$f24882d2-e636-44c3-8788-4c14f8027b83

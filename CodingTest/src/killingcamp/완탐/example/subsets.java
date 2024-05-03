@@ -7,24 +7,23 @@ import java.util.List;
 
 public class subsets {
     public static void main(String[] args) {
-        List<List<Integer>> result = new ArrayList<>();
         int[] nums = {1,2,3};
-        Deque<Integer> path = new ArrayDeque<>();
-        dfs(result, nums,0, path);
-        System.out.println(result);
+        System.out.println(subsets(nums));
     }
-    public static void dfs(List<List<Integer>> result, int[] nums, int index, Deque<Integer> path) {
-        // 모든 탐색경로 매번 추가
-        List<Integer> addElements = new ArrayList<>(path);
-        result.add(addElements);
 
+    public static List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+        backtrack(new ArrayList<>(), 0, nums, ans);
+        return ans;
+    }
+    public static void backtrack(List<Integer> curr, int start, int[] nums, List<List<Integer>> ans) {
+        ans.add(new ArrayList<>(curr));
         int n = nums.length;
-        for(int i = index; i < n ; i++) {
-            path.add(nums[i]);
-            dfs(result, nums, i+1, path);
-            path.removeLast();
+        for(int i= start; i < n ; i++) {
+            curr.add(nums[i]);
+            backtrack(curr, i+1, nums, ans);
+            curr.remove(curr.size() - 1);
         }
-
     }
 
 }
