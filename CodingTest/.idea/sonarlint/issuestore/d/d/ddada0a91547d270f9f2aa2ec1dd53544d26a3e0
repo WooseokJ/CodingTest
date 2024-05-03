@@ -1,10 +1,7 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ώ‡…ύÿÿÿÿ8Πως’σ1J$38651c8f-6313-4360-8030-0f7fb810d1d9
-	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Δγ„Ω8Ρως’σ1J$47cba64e-b1a9-4cb7-b3f2-657b869eb2b4
-•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ζ®π…όÿÿÿÿ8Ϊως’σ1J$a7682558-77c2-4016-9f89-e27ca7cf3955
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ώ‡…ύÿÿÿÿ8ύρνσ1J$21b9a4c9-fda6-4ed6-90ed-b8f609f8b869
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Δγ„Ω8›ύρνσ1J$d4867e04-d9c0-4233-bd56-fb5f13c1ff18
+r	java:S106"+Replace this use of System.out by a logger.(—ϋ³ϊÿÿÿÿ8¬σνσ1J$8811a0d8-0506-493e-a6e3-f8978a6079e9
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ωέ Εϋÿÿÿÿ8¬σνσ1J$f8c306ef-7f05-43fd-a974-4af0bcee834e
 b
-java:S1659"Declare "r" on a separate line.(ΑΨέ8Ϋως’σ1J$d90e3415-f599-4280-b77f-3a5df7bba1e6
-m
-java:S3457"%String contains no format specifiers.(ΏΞ—δÿÿÿÿÿ8°ΰϋ’σ1J$1255e189-b0e5-45ea-8078-02e80ebf8abd
-r	java:S106"+Replace this use of System.out by a logger.(ΏΞ—δÿÿÿÿÿ8άως’σ1J$efed7c26-6eaf-42f3-a5d6-d7e3fcff6443
-r	java:S106%"+Replace this use of System.out by a logger.(τ ε—ÿÿÿÿÿ8άως’σ1J$ee553394-d119-41af-93d3-2534eff2749d
+java:S1659"Declare "r" on a separate line.(ΑΨέ8ΟΌψνσ1J$f6bdea0d-efba-46db-8819-ef25c29bb4ae

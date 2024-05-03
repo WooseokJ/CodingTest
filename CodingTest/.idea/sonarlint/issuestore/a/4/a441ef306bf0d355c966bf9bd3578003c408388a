@@ -1,10 +1,10 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µĞô÷8ºåëó1J$575eb629-49b7-4641-8067-979d0094158e
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8‚ºåëó1J$94360fa4-0734-4595-ac52-ccc989b4302a
-r	java:S106"+Replace this use of System.out by a logger.(«Áèóşÿÿÿÿ8ˆºåëó1J$736f0b2c-0731-4ea4-862e-e90eb30e4e0a
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µĞô÷8ºåëó1J$0ba76320-4f2e-4f82-bc38-73416505c78d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8‚ºåëó1J$b983adca-20cb-4d88-ba4b-004f66b4f7d1
+r	java:S106"+Replace this use of System.out by a logger.(«Áèóşÿÿÿÿ8ˆºåëó1J$5901cfae-1719-4af6-af1e-533bfe60d232
 l
-java:S5413")Verify that "remove()" is used correctly.(÷ä£Ô8‹ºåëó1J$7ef6c623-7f2c-4b4e-87ea-0dc4cbbc64ef
+java:S5413")Verify that "remove()" is used correctly.(÷ä£Ô8‹ºåëó1J$1b804888-a445-4496-8cd1-233f8e68f85b
 s
-java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Ê”æëó1J$777945ae-7388-45c9-adb2-c05799609722
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Ê”æëó1J$54ca1627-a7f7-4301-8051-e8a7f5dfa6ef
 €
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ë”æëó1J$a0875fbb-2c47-417f-85d7-9e6f7dee379a
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ë”æëó1J$8848f0f1-7a6c-47e6-ae8e-62dd3e3c0139

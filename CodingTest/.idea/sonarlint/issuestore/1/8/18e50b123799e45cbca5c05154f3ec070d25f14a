@@ -1,9 +1,9 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ¡³Ãûÿÿÿÿ8úß©êó1J$3294a326-719d-4f6b-8503-b68ced442c7e
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8ûß©êó1J$615e3d8d-fb35-41d5-9fb6-abc46f6fa0cc
-m	java:S106"+Replace this use of System.out by a logger.(£¥ó¡8‚à©êó1J$6421f687-e956-462c-bf17-6b860bc787a1
-l	java:S106"+Replace this use of System.out by a logger.(ü„ê!8Öõ¹êó1J$e3632e63-eb2c-4024-be42-bd831ce5d71c
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ¡³Ãûÿÿÿÿ8úß©êó1J$f213ccb3-b0ec-4447-bb2f-39ad2301270b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8ûß©êó1J$f3364a15-4e5f-43c6-9f7c-833a56ee6d8b
+m	java:S106"+Replace this use of System.out by a logger.(£¥ó¡8‚à©êó1J$00532550-8f76-49d4-8081-798d8ff1c38d
+l	java:S106"+Replace this use of System.out by a logger.(ü„ê!8Öõ¹êó1J$3f785321-fe2f-4be2-87b3-b6c05f7907d7
 u
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‹Â¿êó1J$d8e4312e-df69-47a3-aa58-4ea7457029ac
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‹Â¿êó1J$652d748c-76e9-42c0-957a-665fb5f43eaf
 €
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‹Â¿êó1J$48c232b4-5745-496a-ae24-f30d1996f016
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‹Â¿êó1J$07791b0d-9824-415d-91a3-f3a0b1545128
