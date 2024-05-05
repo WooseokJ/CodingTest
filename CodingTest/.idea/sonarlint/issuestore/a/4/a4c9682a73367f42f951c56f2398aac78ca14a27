@@ -1,0 +1,12 @@
+
+Ž	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(š‘Í8·Œùñó1J$0a0de1e9-88f3-4062-8d96-ae96c20b3ba0
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëå¯Ö8¸Œùñó1J$4c2ffcc5-bbdd-4dd0-bb47-414f46900671
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8½Œùñó1J$2dec4e04-232a-431f-bfcf-d5c8c46e6f19
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(à–»”þÿÿÿÿ8†Óòó1J$ad9cb16a-fb6a-4b31-8daf-79d4c21e5a1c
+j
+java:S1125"'Remove the unnecessary boolean literal.(ï¡ÖÍ8¸ªûñó1J$88a6f304-b7cd-4ccc-9de5-847d4d84c6cd
+o
+java:S1125$"'Remove the unnecessary boolean literal.(ÇÌ™±øÿÿÿÿ8ˆÓòó1J$f8d4a931-fd92-4c32-9774-d9f42fabe270
+o
+java:S11250"'Remove the unnecessary boolean literal.(ÇÌ™±øÿÿÿÿ8Òöòó1J$726785d0-37bf-4c46-93dd-96468b25eb5a
