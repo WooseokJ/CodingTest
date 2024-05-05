@@ -32,3 +32,5 @@ r
 Bsrc/killingcamp/dfsbfs/example/shortest_path_in_binary_matrix.java,a/6/a6846f2603348c25eedcc9af7db83f5d2e554dea
 n
 >src/killingcamp/완탐/assignment/Palindrome_Partitioning.java,5/1/51306495d8daaad7cc2aba761b8269bff8200040
+`
+0src/killingcamp/완탐/assignment/피로도.java,7/7/7755f156f70320f6af9e8549513e5d5ece3b7966
