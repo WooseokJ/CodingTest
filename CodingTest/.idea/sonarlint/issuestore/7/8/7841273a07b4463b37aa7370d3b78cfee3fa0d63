@@ -1,0 +1,34 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€Øÿ€8ê»Äæô1J$9c22f6d2-d98b-43d0-86c4-0c92d3da1cdb
+€
+java:S1854-"=Remove this useless assignment to local variable "consumer1".(ê”òô8î»Äæô1J$4a96efc5-3e65-469e-992a-b0e14dbdf136
+
+java:S1854*"<Remove this useless assignment to local variable "consumer".(ï£Æ8î»Äæô1J$a38ae44b-cd2b-41a6-8a6e-86fcee8586a4
+~
+java:S1854&"6Remove this useless assignment to local variable "fc".(ĞºŸ„ùÿÿÿÿ8î»Äæô1J$ca3a7f65-a3c3-4629-9b53-8a531d14ce89
+r	java:S106"+Replace this use of System.out by a logger.(Èµ˜¬ÿÿÿÿÿ8ğ»Äæô1J$85d6357f-e19f-4dc2-920b-298fa6a0aecf
+o
+java:S1602",Remove useless curly braces around statement(™§‚ƒ8ğ»Äæô1J$8a4514a9-d42b-4807-8132-16f18f1b552a
+r	java:S106"+Replace this use of System.out by a logger.(Å˜Šúÿÿÿÿ8ñ»Äæô1J$a36992bb-6fdc-4d58-af69-cda616c1cba6
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(‚ú®äşÿÿÿÿ8ñ»Äæô1J$83c4b1db-3eb0-4032-a404-5d8646577523
+y
+java:S1611&"1Remove the parentheses around the "str" parameter(ĞºŸ„ùÿÿÿÿ8ñ»Äæô1J$56914a30-ddbf-4885-9082-bdb3d215f9cb
+‰
+java:S1612&"AReplace this lambda with method reference 'CharSequence::length'.(ĞºŸ„ùÿÿÿÿ8ñ»Äæô1J$28317a78-1ab0-4c9d-aa13-db2c1e2f693d
+o
+java:S1481&"'Remove this unused "fc" local variable.(ĞºŸ„ùÿÿÿÿ8ò»Äæô1J$6a279353-67bd-48d6-8918-332b419e17e3
+o
+java:S1602*",Remove useless curly braces around statement(ï£Æ8ò»Äæô1J$89b592cb-0ce5-42b7-817d-0b886e5090c0
+r	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ò»Äæô1J$cc764cb9-7182-44fb-9067-b79ada750358
+p
+java:S1481*"-Remove this unused "consumer" local variable.(ï£Æ8ò»Äæô1J$04f21e75-f53a-48f0-9e8d-b64d905a95cc
+m	java:S106-"+Replace this use of System.out by a logger.(ê”òô8ò»Äæô1J$99d876fd-8665-4718-9d75-1497c764ed00
+q
+java:S1481-".Remove this unused "consumer1" local variable.(ê”òô8ò»Äæô1J$317d73be-d6a7-4f40-8088-866c7396e271
+ˆ
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(²¡•ˆ8ò»Äæô1J$353bea76-6f94-4a3a-8ede-5af997f92074
+ˆ
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(ÆñĞè8ó»Äæô1J$6d7b8e28-1ea5-484c-8d38-31a968687579
+r	java:S106?"+Replace this use of System.out by a logger.(À‰Óéıÿÿÿÿ8ó»Äæô1J$e0f3e278-0cc8-465c-a6a1-0c3f5b258f02
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ô»Äæô1J$ac3a0c80-2768-4858-a13a-bb5665d90209

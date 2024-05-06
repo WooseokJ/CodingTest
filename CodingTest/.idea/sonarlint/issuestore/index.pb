@@ -74,3 +74,13 @@ Y
 )src/basic/base/required/WrapperClass.java,3/6/368cd589552ec39af0966dc7cd8a8d01a47b3660
 Q
 !src/basic/base/option/lambda.java,5/f/5f24ea8b0295dd3b515d33b6ed17dc58b17d51e1
+Z
+*src/basic/base/option/methodReference.java,7/2/72a082c4dee11917e3a7d0b0100dc307badd1d2d
+c
+3src/basic/base/option/lambdaAndMethodReference.java,e/6/e6a1338350e783242adcdf5bde5d7adacb85231c
+i
+9src/basic/base/option/람다와메서드레퍼런스.java,7/8/7841273a07b4463b37aa7370d3b78cfee3fa0d63
+Q
+!src/basic/base/option/Stream.java,0/d/0d6f332f85f5d2d92faf9e9756da2fe40b6fdcde
+T
+$src/basic/base/option/스트림.java,3/6/36d4d3d49138a9ae1325da03a47ba566188a4e34

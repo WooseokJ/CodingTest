@@ -1,0 +1,58 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è²÷Şùÿÿÿÿ8®åŞçô1J$a3573431-a0f7-4b79-ab8a-79bab7c20eff
+{
+java:S1854_"8Remove this useless assignment to local variable "list".(ÄİŒ³8¹’äçô1J$6e8fef8c-6da9-41fc-8561-f954a0a2fc88
+z
+java:S1854Z"7Remove this useless assignment to local variable "avg".(èËØÎ8şäßçô1J$dec7389b-c4f6-48d3-b654-8dcbc0540060
+z
+java:S1854Y"7Remove this useless assignment to local variable "max".(™Ë€ù8ŞåŞçô1J$ab365622-0e2b-4142-a014-49e7789417e1
+
+java:S1854X"7Remove this useless assignment to local variable "min".(µÛÔ¾øÿÿÿÿ8ŞåŞçô1J$bc164b13-81f7-4727-a8ee-99f9f2556f3c
+
+java:S1854W"7Remove this useless assignment to local variable "sum".(ğ˜™ÿÿÿÿÿ8ŞåŞçô1J$aa28b8b1-0aec-4b62-9644-1372cb333cf7
+‡
+java:S1854@"?Remove this useless assignment to local variable "entryStream".(Å‘ÎĞúÿÿÿÿ8ŞåŞçô1J$9df893e6-7f05-4c91-98a5-3a7611f358b5
+‡
+java:S1854?"?Remove this useless assignment to local variable "valueStream".(€ŞİÍøÿÿÿÿ8ŞåŞçô1J$c49a935c-522e-4dcf-8534-085ddcfbec9b
+…
+java:S1854>"=Remove this useless assignment to local variable "keyStream".(ËŸ˜¾şÿÿÿÿ8ŞåŞçô1J$c976d47a-532e-4f4c-8439-7fae0ef7e618
+…
+java:S18548"=Remove this useless assignment to local variable "setStream".(¥å¾Ïÿÿÿÿÿ8ŞåŞçô1J$e41f9ed9-f4c8-4661-b384-4f0b45736463
+„
+java:S18541"ARemove this useless assignment to local variable "lengthStrList".(ˆ©Øğ8ŞåŞçô1J$750beb81-61fe-4e01-8bc1-62b5e5ef637c
+€
+java:S1854+"=Remove this useless assignment to local variable "intStream".(Èº¦º8ŞåŞçô1J$2fe4a020-348a-4ec9-ab1e-e9a61daec9da
+}
+java:S1854(":Remove this useless assignment to local variable "stream".(º‚™€8ŞåŞçô1J$3112fd0e-77ba-4c25-9822-2b4211c52653
+l	java:S106"+Replace this use of System.out by a logger.(¢²\8àåŞçô1J$9e9aafdb-8f5b-4313-b18b-b1367e561236
+m	java:S106"+Replace this use of System.out by a logger.(Ğ—Íè8áåŞçô1J$de56ae39-854e-41bc-a3e4-80b233bf44e2
+r	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8áåŞçô1J$e00aa320-58b7-40d1-a164-58bdcd3c4371
+n
+java:S1481("+Remove this unused "stream" local variable.(º‚™€8âåŞçô1J$84787cd3-de9c-4861-b710-74ab2414425c
+q
+java:S1481+".Remove this unused "intStream" local variable.(Èº¦º8âåŞçô1J$5f94cd55-deb9-476d-ad98-80b711b92226
+¼
+java:S62043"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(Ã½š8âåŞçô1J$a4f63815-6458-4da1-9d3b-0044bf29a2d8
+u
+java:S14811"2Remove this unused "lengthStrList" local variable.(ˆ©Øğ8âåŞçô1J$d652f381-4874-4012-9999-055083521c8b
+v
+java:S14818".Remove this unused "setStream" local variable.(¥å¾Ïÿÿÿÿÿ8ãåŞçô1J$269837d8-076b-443b-b0de-77feec493bcc
+v
+java:S1481>".Remove this unused "keyStream" local variable.(ËŸ˜¾şÿÿÿÿ8ãåŞçô1J$27a65c26-35b0-4e76-bf1d-0a1710961fcc
+x
+java:S1481?"0Remove this unused "valueStream" local variable.(€ŞİÍøÿÿÿÿ8ãåŞçô1J$8169dd2f-b8d6-4015-96a5-25d02e60cb90
+x
+java:S1481@"0Remove this unused "entryStream" local variable.(Å‘ÎĞúÿÿÿÿ8ãåŞçô1J$6fbc7c78-bbc0-44bf-83fa-10d938fe49c5
+m	java:S106O"+Replace this use of System.out by a logger.(Ùğ8äåŞçô1J$dbd2994a-8958-4ccb-8c0b-b6eb4c34c71e
+p
+java:S1481W"(Remove this unused "sum" local variable.(ğ˜™ÿÿÿÿÿ8äåŞçô1J$667048e8-93ce-400b-b4cd-05fb7acd2d41
+p
+java:S1481X"(Remove this unused "min" local variable.(µÛÔ¾øÿÿÿÿ8äåŞçô1J$cfc89be3-1d5e-40b1-9f51-15ae5768ecbb
+k
+java:S1481Y"(Remove this unused "max" local variable.(™Ë€ù8äåŞçô1J$acd4f993-781f-4c3d-b8d6-55071848c787
+k
+java:S1481Z"(Remove this unused "avg" local variable.(èËØÎ8…åßçô1J$4ea62d69-884b-4501-9217-06bff4d4e5af
+½
+java:S6204`"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8Á’äçô1J$9f555951-857b-4426-8531-44858e03def0
+l
+java:S1481_")Remove this unused "list" local variable.(ÄİŒ³8½µäçô1J$f0e4a28d-f933-4d6d-8a10-000289b54034
