@@ -1,0 +1,23 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ò…±ùÿÿÿÿ8¾¹Úâô1J$7a5435f6-da4f-4afd-8183-55f51f8e35aa
+|
+java:S1854"9Remove this useless assignment to local variable "deque".(Àï‚ô8Á¹Úâô1J$5c136722-14fd-4de2-bec8-b4d431f18400
+~
+java:S1854"6Remove this useless assignment to local variable "ad".(”†åşÿÿÿÿ8§Ãââô1J$b9eb21e4-7dfb-4656-b8f0-d70512957005
+„
+java:S1854"<Remove this useless assignment to local variable "priority".(·©äªùÿÿÿÿ8Á¹Úâô1J$38132a3f-8041-46eb-97b1-ef68c7f0614b
+~
+java:S1854";Remove this useless assignment to local variable "dynamic".(›”Íî8ÛÄçâô1J$23193568-9b89-4974-86df-d1435f3f522b
+‚
+java:S1854":Remove this useless assignment to local variable "linked".(”Æêşûÿÿÿÿ8Á¹Úâô1J$309a0a43-cf47-4975-ac76-eadcb4f5690d
+s
+java:S1481"+Remove this unused "linked" local variable.(”Æêşûÿÿÿÿ8Ã¹Úâô1J$4eb93340-f126-497c-883a-3850da4b186f
+o
+java:S1481",Remove this unused "dynamic" local variable.(›”Íî8Ã¹Úâô1J$e2848557-a014-4382-9a67-207ace9aa152
+u
+java:S1481"-Remove this unused "priority" local variable.(·©äªùÿÿÿÿ8Ä¹Úâô1J$d8980004-e86f-42f3-8df2-4d55ebaf9d76
+~	java:S125"<This block of commented-out lines of code should be removed.(ãœë8¢ÂŞâô1J$0ef76944-4f8d-428b-ae77-49207af386af
+o
+java:S1481"'Remove this unused "ad" local variable.(”†åşÿÿÿÿ8ªÃââô1J$8d61d0ad-985e-4098-9a55-0cd14da29c41
+m
+java:S1481"*Remove this unused "deque" local variable.(Àï‚ô8ŞÄçâô1J$a3c07f6d-c8b8-4550-a9ec-34a561a2b457

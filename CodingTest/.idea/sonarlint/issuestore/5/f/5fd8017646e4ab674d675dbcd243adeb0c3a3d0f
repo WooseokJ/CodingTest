@@ -1,0 +1,16 @@
+
+
+java:S1104"MMake x a static final constant or non-public and provide accessors if needed.(ËŒÏ8ÅÂâô1J$0693393d-012d-4bb2-9071-2e6287a3a1e2
+•
+java:S1104"MMake y a static final constant or non-public and provide accessors if needed.(ÔçÛşÿÿÿÿ8ÅÂâô1J$080399cb-40c1-436c-bfeb-a7488838442b
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İƒÁ÷üÿÿÿÿ8Ïœ½âô1J$2fe0035f-89e1-41dc-9be5-fb728066e724
+y
+java:S1854"6Remove this useless assignment to local variable "x2".(ÑÀØ‚8½øÄâô1J$df990da7-09c9-40c2-9ed3-6a3833a6c68f
+x
+java:S1854"5Remove this useless assignment to local variable "x".(ºõˆú8Ôœ½âô1J$7284ff4b-7e49-4673-a537-2f2075a4cdf8
+i
+java:S1481"&Remove this unused "x" local variable.(ºõˆú8Õœ½âô1J$04b76adf-ccf9-4e83-9357-08c2accaec58
+j
+java:S1481"'Remove this unused "x2" local variable.(ÑÀØ‚8¾øÄâô1J$91c33479-28cd-4702-b8ce-d2390ad78c49
+m
+java:S1068"%Remove this unused "y" private field.(Ê€ÄŒøÿÿÿÿ8Øœ½âô1J$13f8f277-aa11-4e02-82c6-4be737f69978

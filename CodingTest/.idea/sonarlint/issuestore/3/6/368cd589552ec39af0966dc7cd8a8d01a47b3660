@@ -1,0 +1,17 @@
+
+
+java:S1854'"7Remove this useless assignment to local variable "val".(‚¶Ï½ÿÿÿÿÿ8âÜ®ãô1J$fce5657c-1b0d-43ed-a7a5-e40c10395316
+
+java:S1854#"=Remove this useless assignment to local variable "autoboxed".(ï‚º/8ãÜ®ãô1J$d92ef430-eb4e-40da-a9da-f2ea5b4ebe07
+ƒ
+java:S1854"@Remove this useless assignment to local variable "primitiveInt".(§´ã½8¥‘ãô1J$7af8f3ed-1381-4eab-9cb9-e8be52f6dca4
+z
+java:S1854"7Remove this useless assignment to local variable "num".(“èÛ®8¥‘ãô1J$755af565-78e4-4735-af83-12c32edf9cb1
+k
+java:S1481"(Remove this unused "num" local variable.(“èÛ®8¦‘ãô1J$c7f756a4-8904-426c-8fad-4f23a460ae3a
+t
+java:S1481"1Remove this unused "primitiveInt" local variable.(§´ã½8§‘ãô1J$ef3dd8de-8561-4fd1-8278-cd41dbfef589
+p
+java:S1481#".Remove this unused "autoboxed" local variable.(ï‚º/8åÜ®ãô1J$112ef117-23a8-4d6b-8aa0-5cfcc5d584c3
+p
+java:S1481'"(Remove this unused "val" local variable.(‚¶Ï½ÿÿÿÿÿ8æÜ®ãô1J$0bf961b7-6256-4d94-9b3d-bef3fb28ce89

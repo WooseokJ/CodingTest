@@ -1,6 +1,6 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²°›”ÿÿÿÿÿ8¥÷Åô1J$314a1f7f-2440-48d2-a9c8-136db496238d
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß˜±8¦÷Åô1J$45b1dd56-8ffc-4a7c-a608-46bdd327161a
-r	java:S106"+Replace this use of System.out by a logger.(Ã¨”Êûÿÿÿÿ8È”Åô1J$593c1a17-37f4-4fcd-9e63-207f61e8c477
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²°›”ÿÿÿÿÿ8¥÷Åô1J$1624b8cf-17be-4e20-b0ac-c30d5b10426c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß˜±8¦÷Åô1J$82088dbe-230d-4b7e-bf7f-47ef561e3d00
+r	java:S106"+Replace this use of System.out by a logger.(Ã¨”Êûÿÿÿÿ8È”Åô1J$381303de-3cf9-4912-a176-785da28fcf38
 z
-java:S1128"2Remove this unused import 'java.net.Inet4Address'.(ê…ÉÃúÿÿÿÿ8©—Åô1J$8f3ab530-8cb2-4eb1-b8a2-fc28b5fc98dc
+java:S1128"2Remove this unused import 'java.net.Inet4Address'.(ê…ÉÃúÿÿÿÿ8©—Åô1J$287609be-b714-470f-abaa-b34bd9c4a585

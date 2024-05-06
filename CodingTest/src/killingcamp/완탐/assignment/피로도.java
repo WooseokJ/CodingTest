@@ -30,7 +30,7 @@ public class 피로도 {
                     k-= consumePirodo;
                 }
                 ans = Math.max(ans, sum);
-                
+
             }
 
         }

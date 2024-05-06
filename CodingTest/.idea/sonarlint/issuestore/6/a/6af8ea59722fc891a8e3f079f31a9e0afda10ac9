@@ -1,0 +1,21 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢½‰Œüÿÿÿÿ8¥ææãô1J$2de7588c-47a5-4569-8474-356c9bc8361b
+ƒ
+java:S1854
+";Remove this useless assignment to local variable "minLong".(êƒôşÿÿÿÿ8©ææãô1J$10d5a286-cc73-4b01-bdae-f923665ebf3f
+ƒ
+java:S1854	";Remove this useless assignment to local variable "maxLong".(÷ä¶œıÿÿÿÿ8©ææãô1J$48f6ef7d-75ec-45af-b10e-fff5a396d4c6
+}
+java:S1854":Remove this useless assignment to local variable "minInt".(­ªÕë8©ææãô1J$465268f3-970f-4128-8a8d-0c7ea3d42bf8
+‚
+java:S1854":Remove this useless assignment to local variable "maxInt".(ï±˜¤ÿÿÿÿÿ8ªææãô1J$5e74be15-0e03-45a5-b9f6-bca88b6741d0
+s
+java:S1481"+Remove this unused "maxInt" local variable.(ï±˜¤ÿÿÿÿÿ8«ææãô1J$d79d8532-b9e2-4bc1-b42c-2a9bb81be509
+n
+java:S1481"+Remove this unused "minInt" local variable.(­ªÕë8«ææãô1J$9b75e1fb-d541-4f4d-86da-6b18ca480257
+}	java:S125"<This block of commented-out lines of code should be removed.(ïÙ÷|8ÚÏóãô1J$ca0317a4-eea6-4203-9bd0-27a4b71d73f4
+t
+java:S1481	",Remove this unused "maxLong" local variable.(÷ä¶œıÿÿÿÿ8«ææãô1J$0f8ce53e-7eab-4288-8e62-c0280bb17499
+t
+java:S1481
+",Remove this unused "minLong" local variable.(êƒôşÿÿÿÿ8«ææãô1J$8814a0a8-bbbd-4050-be20-674671c8ebe5
