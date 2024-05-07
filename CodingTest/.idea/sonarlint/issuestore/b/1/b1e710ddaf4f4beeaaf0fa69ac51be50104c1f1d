@@ -1,6 +1,6 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êê¤Ì8ã×İãô1J$bc78f80e-15c3-4714-9842-bc2b873cef52
-l	java:S106"+Replace this use of System.out by a logger.(í²P8ë×İãô1J$4226fe11-3eff-4b61-ab28-1a3d1cdcbd42
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êê¤Ì8ã×İãô1J$b7141ae6-c0ef-4eea-8b17-d64bef8643c9
+l	java:S106"+Replace this use of System.out by a logger.(í²P8ë×İãô1J$bdd0f18e-1753-430f-ba30-2cb07651e4ca
 ~
-java:S1119";Refactor the code to remove this label and the need for it.(¹µ¾8ì×İãô1J$1a82d6f9-1e8f-4cee-863e-4ab5f44bf38d
-l	java:S106"+Replace this use of System.out by a logger.(Ê–Ş8á²Şãô1J$8aca2c91-8d62-4d29-9361-993effbce349
+java:S1119";Refactor the code to remove this label and the need for it.(¹µ¾8ì×İãô1J$02e32ef9-8ae8-4373-9bbf-5daf501ae86f
+l	java:S106"+Replace this use of System.out by a logger.(Ê–Ş8á²Şãô1J$3a311b52-42eb-4523-8f83-e058b543feb2

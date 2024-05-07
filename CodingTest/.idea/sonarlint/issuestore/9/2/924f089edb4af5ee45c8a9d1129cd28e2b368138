@@ -1,7 +1,4 @@
 
 ]
-java:S1220""Move this file to a named package.8ÓôìÀô1J$469d8d8d-d48e-4a54-99d4-fce205bc74da
-r	java:S106
-"+Replace this use of System.out by a logger.(Æ¶Êøÿÿÿÿ8ÜÎ°Ãô1J$ed94e7eb-db80-40a3-8cce-8adacacbdde9
-i
-java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8Ûª”Ãô1J$73d52f9e-ed40-4f0d-9a05-2cf333f6a6c2
+java:S1220""Move this file to a named package.8ÇªÜŒõ1J$212a9e92-78eb-406d-b895-b90027fbc2a1
+r	java:S106	"+Replace this use of System.out by a logger.(°ĞİØùÿÿÿÿ8¾¯ŞŒõ1J$d8685f3c-60eb-4b5a-ba5d-9601c98355c8

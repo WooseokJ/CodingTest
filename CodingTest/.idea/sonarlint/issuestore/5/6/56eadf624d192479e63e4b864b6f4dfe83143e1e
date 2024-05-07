@@ -1,12 +1,12 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ¸åşÿÿÿÿ8·¾·ìó1J$0b7fc0f5-e480-4bfc-9d50-4029fb51dbdf
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8¸¾·ìó1J$39c07e8a-be00-41a2-bb47-1d3191a9c55e
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ¸åşÿÿÿÿ8·¾·ìó1J$9bb6766d-beca-44cb-ac3a-ab355414dfe2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8¸¾·ìó1J$547c119a-6400-4514-b562-8f56070c38b2
 ”
-java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(³ƒÜôøÿÿÿÿ8äı·ìó1J$ad6fdd09-0194-4dd9-b283-196e6a95edfd
-r	java:S106"+Replace this use of System.out by a logger.(™ó¬‡ùÿÿÿÿ8¿¾·ìó1J$0be28519-aafa-4030-b6ed-4dd6734fb0c1
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(³ƒÜôøÿÿÿÿ8äı·ìó1J$1aa4507f-0401-4286-9d94-6a72d2a963f9
+r	java:S106"+Replace this use of System.out by a logger.(™ó¬‡ùÿÿÿÿ8¿¾·ìó1J$8d59dc30-b379-4524-8317-5084664ad027
 l
-java:S5413")Verify that "remove()" is used correctly.(÷ä£Ô8ë¨Àìó1J$3b5028b1-5470-40a3-be5f-78eff671cfba
+java:S5413")Verify that "remove()" is used correctly.(÷ä£Ô8ë¨Àìó1J$06c17f40-9b43-4506-849c-14dea9263aa2
 y
-java:S1128"1Remove this unused import 'java.util.ArrayDeque'.(†®ŞÖúÿÿÿÿ8ı»ìó1J$e78dca28-f729-45b7-b649-78960458fbcb
+java:S1128"1Remove this unused import 'java.util.ArrayDeque'.(†®ŞÖúÿÿÿÿ8ı»ìó1J$f8a87a2a-6a34-4e83-8d95-cfb39fc33503
 t
-java:S1128",Remove this unused import 'java.util.Deque'.(³Ã¯¥şÿÿÿÿ8ı»ìó1J$94bd8444-5cbf-43b2-b239-8b85b5fd6482
+java:S1128",Remove this unused import 'java.util.Deque'.(³Ã¯¥şÿÿÿÿ8ı»ìó1J$220ec232-8ef6-473c-9f56-163612638cab

@@ -1,77 +1,77 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÎÅ8‘ËÁèô1J$e666e66f-6c71-4061-a7e6-dde820c946d0
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÎÅ8‘ËÁèô1J$9267ab21-bc93-461e-be7b-cbe2e4bfe573
 
-java:S4973"<Strings and Boxed types should be compared using "equals()".(ë¨Î‘8’ËÁèô1J$3fc27fd6-e373-4c18-95e8-4db51ff68a16
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ë¨Î‘8’ËÁèô1J$beacca47-79fd-487f-b6c9-f244ba464788
 €
-java:S1854"8Remove this useless assignment to local variable "str2".(ÎĞÍ±ùÿÿÿÿ8›ËÁèô1J$295046a8-4629-4e2f-a96c-1fa1c5ec1c1d
+java:S1854"8Remove this useless assignment to local variable "str2".(ÎĞÍ±ùÿÿÿÿ8›ËÁèô1J$bf91cd96-34ea-46c1-90ce-4a00ae900b12
 €
-java:S1854"8Remove this useless assignment to local variable "num2".(¾õÅİıÿÿÿÿ8›ËÁèô1J$71832154-456f-463a-b075-0740a913e9a0
+java:S1854"8Remove this useless assignment to local variable "num2".(¾õÅİıÿÿÿÿ8›ËÁèô1J$f1cca29c-3791-42c0-8744-19d2a5cc6447
 €
-java:S1854"8Remove this useless assignment to local variable "num1".(ß«ÎÈùÿÿÿÿ8›ËÁèô1J$b78eef0a-2066-497b-9c7a-82320822b0bc
+java:S1854"8Remove this useless assignment to local variable "num1".(ß«ÎÈùÿÿÿÿ8›ËÁèô1J$1a7c5e03-1b06-46ee-b9c6-6b8dff71da83
 
-java:S1854"7Remove this useless assignment to local variable "str".(ÌÀ‚ôıÿÿÿÿ8›ËÁèô1J$9605312b-c6e6-4378-84fb-24f9cb5fb791
+java:S1854"7Remove this useless assignment to local variable "str".(ÌÀ‚ôıÿÿÿÿ8›ËÁèô1J$5e040806-3f24-44e2-b993-6c479f9904aa
 }
-java:S1854"5Remove this useless assignment to local variable "c".(Å÷ìçùÿÿÿÿ8›ËÁèô1J$72d77370-bdc8-480c-a650-2a82d0aeb0d8
+java:S1854"5Remove this useless assignment to local variable "c".(Å÷ìçùÿÿÿÿ8›ËÁèô1J$a575a560-4b25-4bfb-a0ee-0eb4e14012db
 {
-java:S1854D"8Remove this useless assignment to local variable "num3".(ÔÜ¾ë8‘™Âèô1J$0c85f272-f2dd-4b32-b49e-0193b621437b
+java:S1854D"8Remove this useless assignment to local variable "num3".(ÔÜ¾ë8‘™Âèô1J$86b9a742-f84a-4aa6-bfff-902b33b389ba
 {
-java:S1854C"8Remove this useless assignment to local variable "num5".(Ï¸á‰8éæÂèô1J$1458f1a8-0009-431d-87dd-cd43e2c38728
+java:S1854C"8Remove this useless assignment to local variable "num5".(Ï¸á‰8éæÂèô1J$095301da-f39d-4ae6-ae0e-bc2601f1c0aa
 
-java:S1854B"7Remove this useless assignment to local variable "num".(ú°òÖıÿÿÿÿ8›ËÁèô1J$06792743-9410-42e6-975d-66f876081221
+java:S1854B"7Remove this useless assignment to local variable "num".(ú°òÖıÿÿÿÿ8›ËÁèô1J$dd5c4e1e-4ca8-4dfe-b5ca-f88035ed6cd1
 
-java:S18544"7Remove this useless assignment to local variable "sb2".(’àà•úÿÿÿÿ8›ËÁèô1J$ac4b461b-e9ea-430c-bf61-6906eeec06c7
+java:S18544"7Remove this useless assignment to local variable "sb2".(’àà•úÿÿÿÿ8›ËÁèô1J$9a411a20-7679-489a-af41-cc0596b795a2
 €
-java:S1854-"=Remove this useless assignment to local variable "charArray".(“õœ8›ËÁèô1J$d01d97cb-c96f-4c8d-ba59-fd3395fbc33b
+java:S1854-"=Remove this useless assignment to local variable "charArray".(“õœ8›ËÁèô1J$8df1a3a8-d868-40bc-96d9-97aa9241516a
 n
-java:S1481"&Remove this unused "c" local variable.(Å÷ìçùÿÿÿÿ8›ËÁèô1J$333e6b1c-78fc-460f-805c-adc3c3ceac59
+java:S1481"&Remove this unused "c" local variable.(Å÷ìçùÿÿÿÿ8›ËÁèô1J$bf2ae937-de91-4bb3-9f9f-96b974ff1c7e
 p
-java:S1481"(Remove this unused "str" local variable.(ÌÀ‚ôıÿÿÿÿ8œËÁèô1J$40ea6339-c510-48b1-95ce-4216c2bccc43
+java:S1481"(Remove this unused "str" local variable.(ÌÀ‚ôıÿÿÿÿ8œËÁèô1J$95f19be1-8bbe-451b-bc8c-996c3a12cf8b
 q
-java:S1481")Remove this unused "num1" local variable.(ß«ÎÈùÿÿÿÿ8œËÁèô1J$066f6c35-285f-40e9-98af-af4daf8d984b
+java:S1481")Remove this unused "num1" local variable.(ß«ÎÈùÿÿÿÿ8œËÁèô1J$cc89832a-9560-4b86-95c0-4a363602a633
 q
-java:S1481")Remove this unused "num2" local variable.(¾õÅİıÿÿÿÿ8œËÁèô1J$6da69f67-7e3c-474f-b006-304aa40437c8
-m	java:S106"+Replace this use of System.out by a logger.(Şàæ®8ËÁèô1J$de3058c0-8c63-4c01-98dc-af8b8a42ed0a
-r	java:S106"+Replace this use of System.out by a logger.(ÂÑ …ıÿÿÿÿ8ËÁèô1J$9735db4e-0bfc-4265-8ae0-c6af01fd5c07
-r	java:S106"+Replace this use of System.out by a logger.(¡¬Òùÿÿÿÿ8ËÁèô1J$b83dae3d-11ad-43c5-bf50-6f984c7d365d
+java:S1481")Remove this unused "num2" local variable.(¾õÅİıÿÿÿÿ8œËÁèô1J$ee56f6b7-b0ef-44ef-934a-d0b36321fc48
+m	java:S106"+Replace this use of System.out by a logger.(Şàæ®8ËÁèô1J$1f23d1ab-09b7-4f49-8402-fda8e9289045
+r	java:S106"+Replace this use of System.out by a logger.(ÂÑ …ıÿÿÿÿ8ËÁèô1J$18e604c6-a942-41b3-bbf3-6375b99f544f
+r	java:S106"+Replace this use of System.out by a logger.(¡¬Òùÿÿÿÿ8ËÁèô1J$417045b1-c938-4f36-b9ce-0fa9448f0e27
 n
-java:S2201"+The return value of "replace" must be used.(õÜœÂ8ËÁèô1J$0b161d9a-f875-441e-a10b-20483e5c6c8c
-m	java:S106"+Replace this use of System.out by a logger.(ë¨Î‘8ËÁèô1J$f5b22f60-da24-494e-a210-305137abc2fc
-r	java:S106"+Replace this use of System.out by a logger.(˜ŒÙ²ùÿÿÿÿ8ŸËÁèô1J$47742c5b-7a7d-42a6-a0f9-cc048a151b41
+java:S2201"+The return value of "replace" must be used.(õÜœÂ8ËÁèô1J$725dfe6b-69dc-4dab-bbec-c1d675682e76
+m	java:S106"+Replace this use of System.out by a logger.(ë¨Î‘8ËÁèô1J$5d6fdd30-6c0f-4e6f-90f4-d5fd2d7de598
+r	java:S106"+Replace this use of System.out by a logger.(˜ŒÙ²ùÿÿÿÿ8ŸËÁèô1J$242175a4-691f-4d8b-9b79-aa872201f97b
 m
-java:S2201"*The return value of "length" must be used.(“øÉ™8ŸËÁèô1J$40908f36-c4b3-4028-98e4-385e5466e912
+java:S2201"*The return value of "length" must be used.(“øÉ™8ŸËÁèô1J$0784b094-9801-49b6-9776-dd8373a6d05f
 m
-java:S2201"*The return value of "charAt" must be used.(¥…­8ŸËÁèô1J$a5cf5782-4087-4370-8023-e2fb44ac5a42
+java:S2201"*The return value of "charAt" must be used.(¥…­8ŸËÁèô1J$48fa64db-3259-443a-8f18-a1ba2cfd095d
 n
-java:S2201"+The return value of "indexOf" must be used.(™¿€ì8ŸËÁèô1J$53d41522-483b-4483-b3ff-3ea9b5760f4d
+java:S2201"+The return value of "indexOf" must be used.(™¿€ì8ŸËÁèô1J$f02be151-1256-4e7b-99bf-64ad9ba54ff1
 w
-java:S2201"/The return value of "lastIndexOf" must be used.(¸ÊÆøşÿÿÿÿ8ŸËÁèô1J$f1d6566b-5462-4aea-a381-83d8fda0157c
+java:S2201"/The return value of "lastIndexOf" must be used.(¸ÊÆøşÿÿÿÿ8ŸËÁèô1J$198f8cc2-4378-4b2a-95d7-3e77f1149c75
 p
-java:S2201 "-The return value of "substring" must be used.(ÿ‚ğî8ŸËÁèô1J$2b79f248-4331-45bc-bb01-117f5f3c98cd
+java:S2201 "-The return value of "substring" must be used.(ÿ‚ğî8ŸËÁèô1J$9de2d6a9-4635-4d88-8d50-43ab2eaaae64
 q
-java:S2201!".The return value of "replaceAll" must be used.(‚„Éñ8ŸËÁèô1J$4856c84b-e096-462d-9085-772c7ae4c2f6
+java:S2201!".The return value of "replaceAll" must be used.(‚„Éñ8ŸËÁèô1J$5f13f2f6-77cb-43b1-a2e8-7ecddd48f725
 n
-java:S2201""+The return value of "replace" must be used.(Ñªèã8 ËÁèô1J$c2a2a6d2-be64-44e6-ae40-dc42e2257745
+java:S2201""+The return value of "replace" must be used.(Ñªèã8 ËÁèô1J$a32c12eb-19ca-40ef-8d5e-ee9961ae2ab4
 t
-java:S2201#",The return value of "contains" must be used.(Œ¯¬Šÿÿÿÿÿ8 ËÁèô1J$0418f1a9-2bae-43bc-8990-7301bc29e944
-ƒ	java:S125#"<This block of commented-out lines of code should be removed.(Œ¯¬Šÿÿÿÿÿ8 ËÁèô1J$27bb0e13-3561-4d10-9f74-c482811ab1d1
-r	java:S106&"+Replace this use of System.out by a logger.(‹Éö˜ÿÿÿÿÿ8¡ËÁèô1J$6ef929f8-a118-49e6-96d8-c5ec7652a443
+java:S2201#",The return value of "contains" must be used.(Œ¯¬Šÿÿÿÿÿ8 ËÁèô1J$89ce8ffd-20d5-4e9f-95a2-6b78408cd519
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(Œ¯¬Šÿÿÿÿÿ8 ËÁèô1J$8fbd5213-cc10-4131-bee3-6b2c3d537431
+r	java:S106&"+Replace this use of System.out by a logger.(‹Éö˜ÿÿÿÿÿ8¡ËÁèô1J$13d214cb-25ea-4eea-96c1-408d2599c604
 j
-java:S2201*"(The return value of "trim" must be used.(½Šıo8¡ËÁèô1J$adb1501d-da20-42ed-90b2-44760eb15998
+java:S2201*"(The return value of "trim" must be used.(½Šıo8¡ËÁèô1J$5f18a9bf-993e-4294-a339-cf686058d6d4
 r
-java:S2201+"/The return value of "toUpperCase" must be used.(‰Áú¥8¡ËÁèô1J$db63192c-30cf-41f5-90d6-9c68066ce241
+java:S2201+"/The return value of "toUpperCase" must be used.(‰Áú¥8¡ËÁèô1J$fa2b81e4-d7a7-4202-8e7c-b8b9d350c52d
 w
-java:S2201,"/The return value of "toLowerCase" must be used.(ï¯ØÏùÿÿÿÿ8¡ËÁèô1J$451362f1-7a8f-4bb9-9fe1-d6f0d75ab5ba
+java:S2201,"/The return value of "toLowerCase" must be used.(ï¯ØÏùÿÿÿÿ8¡ËÁèô1J$e10ba75c-e231-4986-973b-6b193eda2cba
 q
-java:S1481-".Remove this unused "charArray" local variable.(“õœ8¡ËÁèô1J$141d4b83-7d36-449b-90c3-3dffeaee1376
+java:S1481-".Remove this unused "charArray" local variable.(“õœ8¡ËÁèô1J$b57729bb-6dac-4191-b625-522a7c3e20dd
 v
-java:S2201.".The return value of "startsWith" must be used.(¿Ä¨«øÿÿÿÿ8¡ËÁèô1J$ad689457-bde6-400a-8457-11d8441bf5eb
+java:S2201.".The return value of "startsWith" must be used.(¿Ä¨«øÿÿÿÿ8¡ËÁèô1J$c59059da-0aa9-4c88-9237-0a9086ac0d67
 o
-java:S2201/",The return value of "endsWith" must be used.(®Ô¶’8¡ËÁèô1J$328a6943-4a31-4b37-840b-ad9e051c58d3
+java:S2201/",The return value of "endsWith" must be used.(®Ô¶’8¡ËÁèô1J$3e7618b3-e5b8-463c-8d1c-73e98fb4d7a3
 p
-java:S14814"(Remove this unused "sb2" local variable.(’àà•úÿÿÿÿ8¢ËÁèô1J$c8c0f5ac-ad00-469f-a903-60a3a2074189
+java:S14814"(Remove this unused "sb2" local variable.(’àà•úÿÿÿÿ8¢ËÁèô1J$e74891ee-07a5-4f5e-9481-0cf72e606584
 p
-java:S1481B"(Remove this unused "num" local variable.(ú°òÖıÿÿÿÿ8£ËÁèô1J$6a111b15-b62d-4c5c-99e2-75953bb032e5
+java:S1481B"(Remove this unused "num" local variable.(ú°òÖıÿÿÿÿ8£ËÁèô1J$0853840c-691c-40fd-b4cb-82efca869b9e
 l
-java:S1481C")Remove this unused "num5" local variable.(Ï¸á‰8÷”Ãèô1J$ca42fb38-5073-4655-a58e-ae0e0d8aaf0f
+java:S1481C")Remove this unused "num5" local variable.(Ï¸á‰8÷”Ãèô1J$83eab4c1-79ba-4718-a53e-f608fff5b30f
 l
-java:S1481D")Remove this unused "num3" local variable.(ÔÜ¾ë8š™Âèô1J$3692deed-38f9-457c-b081-7b23bce3f616
+java:S1481D")Remove this unused "num3" local variable.(ÔÜ¾ë8š™Âèô1J$9e7bf090-b39a-4e58-b1b1-64759cd6d908

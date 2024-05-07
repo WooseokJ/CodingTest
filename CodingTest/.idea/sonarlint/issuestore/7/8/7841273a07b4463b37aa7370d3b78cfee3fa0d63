@@ -1,34 +1,34 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€Øÿ€8ê»Äæô1J$9c22f6d2-d98b-43d0-86c4-0c92d3da1cdb
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€Øÿ€8ê»Äæô1J$efba10fe-2cfb-4c48-ac9d-943f16efe68f
 €
-java:S1854-"=Remove this useless assignment to local variable "consumer1".(ê”òô8î»Äæô1J$4a96efc5-3e65-469e-992a-b0e14dbdf136
+java:S1854-"=Remove this useless assignment to local variable "consumer1".(ê”òô8î»Äæô1J$6e2fd616-36b7-4ebd-a61f-a03461d7a142
 
-java:S1854*"<Remove this useless assignment to local variable "consumer".(ï£Æ8î»Äæô1J$a38ae44b-cd2b-41a6-8a6e-86fcee8586a4
+java:S1854*"<Remove this useless assignment to local variable "consumer".(ï£Æ8î»Äæô1J$e0e0e376-c01c-493b-8333-31ec50a381ad
 ~
-java:S1854&"6Remove this useless assignment to local variable "fc".(ĞºŸ„ùÿÿÿÿ8î»Äæô1J$ca3a7f65-a3c3-4629-9b53-8a531d14ce89
-r	java:S106"+Replace this use of System.out by a logger.(Èµ˜¬ÿÿÿÿÿ8ğ»Äæô1J$85d6357f-e19f-4dc2-920b-298fa6a0aecf
+java:S1854&"6Remove this useless assignment to local variable "fc".(ĞºŸ„ùÿÿÿÿ8î»Äæô1J$c20135ac-a436-4745-8c6f-919ac3a85ac3
+r	java:S106"+Replace this use of System.out by a logger.(Èµ˜¬ÿÿÿÿÿ8ğ»Äæô1J$3385d2b3-45a1-4f46-bdd3-c2aaf125f5f4
 o
-java:S1602",Remove useless curly braces around statement(™§‚ƒ8ğ»Äæô1J$8a4514a9-d42b-4807-8132-16f18f1b552a
-r	java:S106"+Replace this use of System.out by a logger.(Å˜Šúÿÿÿÿ8ñ»Äæô1J$a36992bb-6fdc-4d58-af69-cda616c1cba6
-ƒ	java:S125#"<This block of commented-out lines of code should be removed.(‚ú®äşÿÿÿÿ8ñ»Äæô1J$83c4b1db-3eb0-4032-a404-5d8646577523
+java:S1602",Remove useless curly braces around statement(™§‚ƒ8ğ»Äæô1J$7e8a3f18-1347-4982-ac30-5f982209b946
+r	java:S106"+Replace this use of System.out by a logger.(Å˜Šúÿÿÿÿ8ñ»Äæô1J$7641d884-4d50-4ac8-a54a-03c39cc6f0d5
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(‚ú®äşÿÿÿÿ8ñ»Äæô1J$13e97a83-9eb2-487b-8a44-c81428380c99
 y
-java:S1611&"1Remove the parentheses around the "str" parameter(ĞºŸ„ùÿÿÿÿ8ñ»Äæô1J$56914a30-ddbf-4885-9082-bdb3d215f9cb
+java:S1611&"1Remove the parentheses around the "str" parameter(ĞºŸ„ùÿÿÿÿ8ñ»Äæô1J$fa4e237d-668d-436b-8752-6c36d63f5c0d
 ‰
-java:S1612&"AReplace this lambda with method reference 'CharSequence::length'.(ĞºŸ„ùÿÿÿÿ8ñ»Äæô1J$28317a78-1ab0-4c9d-aa13-db2c1e2f693d
+java:S1612&"AReplace this lambda with method reference 'CharSequence::length'.(ĞºŸ„ùÿÿÿÿ8ñ»Äæô1J$8fc2611d-32b5-4a93-870c-563c420ddba4
 o
-java:S1481&"'Remove this unused "fc" local variable.(ĞºŸ„ùÿÿÿÿ8ò»Äæô1J$6a279353-67bd-48d6-8918-332b419e17e3
+java:S1481&"'Remove this unused "fc" local variable.(ĞºŸ„ùÿÿÿÿ8ò»Äæô1J$3450fef5-6fe3-4ecb-ac3a-687ea87d436f
 o
-java:S1602*",Remove useless curly braces around statement(ï£Æ8ò»Äæô1J$89b592cb-0ce5-42b7-817d-0b886e5090c0
-r	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ò»Äæô1J$cc764cb9-7182-44fb-9067-b79ada750358
+java:S1602*",Remove useless curly braces around statement(ï£Æ8ò»Äæô1J$dc174bb7-759a-4fd5-9692-c0f012033b24
+r	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ò»Äæô1J$db28cea3-4e15-4428-ab4d-b2315b0fa2ff
 p
-java:S1481*"-Remove this unused "consumer" local variable.(ï£Æ8ò»Äæô1J$04f21e75-f53a-48f0-9e8d-b64d905a95cc
-m	java:S106-"+Replace this use of System.out by a logger.(ê”òô8ò»Äæô1J$99d876fd-8665-4718-9d75-1497c764ed00
+java:S1481*"-Remove this unused "consumer" local variable.(ï£Æ8ò»Äæô1J$9f5652ae-83eb-477e-a852-b31dc30d33fb
+m	java:S106-"+Replace this use of System.out by a logger.(ê”òô8ò»Äæô1J$b90f479a-fa8e-490b-8faf-f65be21a48b8
 q
-java:S1481-".Remove this unused "consumer1" local variable.(ê”òô8ò»Äæô1J$317d73be-d6a7-4f40-8088-866c7396e271
+java:S1481-".Remove this unused "consumer1" local variable.(ê”òô8ò»Äæô1J$c702ac42-99bc-4141-af58-d94e65b1d24d
 ˆ
-java:S11247"EReorder the modifiers to comply with the Java Language Specification.(²¡•ˆ8ò»Äæô1J$353bea76-6f94-4a3a-8ede-5af997f92074
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(²¡•ˆ8ò»Äæô1J$dee7b3c5-b270-4821-8026-de238ffd7be7
 ˆ
-java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(ÆñĞè8ó»Äæô1J$6d7b8e28-1ea5-484c-8d38-31a968687579
-r	java:S106?"+Replace this use of System.out by a logger.(À‰Óéıÿÿÿÿ8ó»Äæô1J$e0f3e278-0cc8-465c-a6a1-0c3f5b258f02
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(ÆñĞè8ó»Äæô1J$73e9853e-ddcc-41cb-bd9b-74f5f9d80756
+r	java:S106?"+Replace this use of System.out by a logger.(À‰Óéıÿÿÿÿ8ó»Äæô1J$38d1c568-c68c-4b84-8734-131ba99fa7a9
 s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ô»Äæô1J$ac3a0c80-2768-4858-a13a-bb5665d90209
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ô»Äæô1J$39efdc07-1fe3-4804-b399-5b3fa87de73d
