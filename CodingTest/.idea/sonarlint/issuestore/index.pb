@@ -54,3 +54,7 @@ T
 $src/basic/base/option/스트림.java,3/6/36d4d3d49138a9ae1325da03a47ba566188a4e34
 S
 #src/basic/base/문자열처리.java,3/b/3bb8c74d8364b9597642986ebac0ba2d7a998a5a
+k
+;src/killingcamp/완탐/assignment/permutation_sequence.java,6/9/6989305a27d7ce5817eef3e7cfcf24b893b3dbc1
+`
+0src/killingcamp/완탐/assignment/후보키.java,9/b/9b34bb2bd11b0a02ca9f385ab9c259d1cde7e046

@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªü¦’8»¤áÜõ1J$18d1172c-9598-45e7-878a-9c67e78a7e3d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß˜±8¼¤áÜõ1J$d74433db-1447-4538-990d-328187bd73a0
+Ä
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Æ‚ŒŞõ1J$87688061-6b90-4ace-a7a9-76b7c2b066d1
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ã¤áÜõ1J$786d022f-7ed4-4e92-97c8-67c4e3f71648
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ã¤áÜõ1J$d7e58802-5472-4c75-8b4f-7598c2298a0b
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ã¤áÜõ1J$1ade0213-9bfc-4f27-8f28-3876637a3033
+
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8Ã¤áÜõ1J$4cc4894d-8d4f-4547-af3d-d2e7a9563d4c

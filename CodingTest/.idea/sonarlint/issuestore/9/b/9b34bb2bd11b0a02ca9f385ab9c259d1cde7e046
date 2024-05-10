@@ -1,0 +1,17 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal "music" 3 times.(›Ô¤Áüÿÿÿÿ8÷ÄÎ“ö1J$af31c397-d42a-4656-83ce-18a93f2fe211
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€¶Üò8ùÄÎ“ö1J$8ea32659-f1c0-4980-ac40-06e9e6118ad6
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß˜±8úÄÎ“ö1J$43a99e4c-3fa1-46db-90d2-15e8c7d1707c
+l	java:S106"+Replace this use of System.out by a logger.(ÚÂ¬8ŠÅÎ“ö1J$df3485f4-d77c-4686-a345-895c210657ea
+}
+java:S1854!":Remove this useless assignment to local variable "rowLen".(½§½Æ8ÅÎ“ö1J$ed3ac2d6-4385-4dc2-8c3e-d65aa38e8954
+n
+java:S1481!"+Remove this unused "rowLen" local variable.(½§½Æ8ÅÎ“ö1J$bb2ea863-1896-469c-8742-e63119f9e04c
+l
+java:S5413/")Verify that "remove()" is used correctly.(÷ä£Ô8”ÅÎ“ö1J$d908fe43-8516-441f-b7d8-96c03502b26d
+ƒ	java:S125O"<This block of commented-out lines of code should be removed.(Şã¥¿ıÿÿÿÿ8Åï“ö1J$a45369ef-1bc7-4d15-bfc2-4880b1df2a49
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ñ«Ü“ö1J$4d1fea29-9a9e-4224-8fbe-e52b925ccade
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ñ«Ü“ö1J$ddf07fc0-a2ec-4b1c-9b00-317019a2f987
