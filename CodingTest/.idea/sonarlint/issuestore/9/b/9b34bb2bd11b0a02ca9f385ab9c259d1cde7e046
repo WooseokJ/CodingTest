@@ -1,17 +1,17 @@
 
 
-java:S1192"FDefine a constant instead of duplicating this literal "music" 3 times.(›Ô¤Áüÿÿÿÿ8Šªÿ”ö1J$161e668c-3ea6-4dc2-9036-ff7e0428d63d
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€¶Üò8‹ªÿ”ö1J$5f6e0b48-b5d2-4ab5-b5bc-55df1dc0ced0
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß˜±8Œªÿ”ö1J$f1b10af5-7a40-4dfa-87b8-3dc6465e7639
-l	java:S106"+Replace this use of System.out by a logger.(ÚÂ¬8¢ªÿ”ö1J$056cbc75-1938-4e9c-b2e5-e07c201fa284
-W
-java:S1854!":Remove this useless assignment to local variable "rowLen".(½§½Æ8ÑæÊ•ö1
-H
-java:S1481!"+Remove this unused "rowLen" local variable.(½§½Æ8ÒæÊ•ö1
-F
-java:S5413/")Verify that "remove()" is used correctly.(÷ä£Ô8ÒæÊ•ö1
-]	java:S125O"<This block of commented-out lines of code should be removed.(Şã¥¿ıÿÿÿÿ8ÖæÊ•ö1
+java:S1192"FDefine a constant instead of duplicating this literal "music" 3 times.(›Ô¤Áüÿÿÿÿ8Šªÿ”ö1J$e5e5b43b-0326-473c-a40d-01b7c8b693c3
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€¶Üò8‹ªÿ”ö1J$b2d53b29-c9eb-4cfe-9af4-dc6b2afbc1f2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß˜±8Œªÿ”ö1J$c00dffa9-1b72-4484-9446-cc425004b3d5
+l	java:S106"+Replace this use of System.out by a logger.(ÚÂ¬8¢ªÿ”ö1J$07079b50-5aab-4c01-a610-a473f1c3c18f
+}
+java:S1854!":Remove this useless assignment to local variable "rowLen".(½§½Æ8ÑæÊ•ö1J$fc66aa4f-e9f2-4b5a-aef4-7ce8b77dfd9a
+n
+java:S1481!"+Remove this unused "rowLen" local variable.(½§½Æ8ÒæÊ•ö1J$54a16943-c312-4a77-aaa7-15f5b67f94b8
+l
+java:S5413/")Verify that "remove()" is used correctly.(÷ä£Ô8ÒæÊ•ö1J$5f4079d7-7dd6-4a5d-bf13-6cff2b167409
+ƒ	java:S125O"<This block of commented-out lines of code should be removed.(Şã¥¿ıÿÿÿÿ8ÖæÊ•ö1J$daf0f121-9b27-41ca-9d79-25300bded4b2
 p
-java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8©ªÿ”ö1J$7e3bde35-4586-489f-8d6f-1aa12dcb1458
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8©ªÿ”ö1J$cc69e598-47ac-42c1-963c-192121abd4fc
 r
-java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8©ªÿ”ö1J$260df6d2-0621-4add-8b1f-80370759fdae
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8©ªÿ”ö1J$4caa35bf-0c71-4175-827a-985b45091dff

@@ -1,0 +1,11 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü§ì›8‰Áëàö1J$6409e8fe-f25f-41c2-bb43-a4931da948e0
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡‹ıÿÿÿÿ8‹íàö1J$fdbe797c-506e-48b0-9823-f26fe0a8e1ab
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß˜±8ş©àö1J$20c631f9-ee98-48bc-bc73-4d58e5636e18
+m	java:S106
+"+Replace this use of System.out by a logger.(ä±Ä®8§ş©àö1J$8fbba658-2cab-42f1-86a1-dd6971811936
+~
+java:S1854"<Remove this useless assignment to local variable "curr_cnt".(½Úÿ8”‹íàö1J$380fac7b-591f-48a7-88fd-39f6222063d6
+r	java:S106"+Replace this use of System.out by a logger.(ŞªìÈÿÿÿÿÿ8ŒÔïàö1J$f23720b4-14a4-42b2-8b98-74e27f7e5e62
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ã¦¿âö1J$d385116b-bce5-4e0a-8560-d0ae4004ebf2

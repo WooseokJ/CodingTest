@@ -58,3 +58,5 @@ k
 ;src/killingcamp/완탐/assignment/permutation_sequence.java,6/9/6989305a27d7ce5817eef3e7cfcf24b893b3dbc1
 `
 0src/killingcamp/완탐/assignment/후보키.java,9/b/9b34bb2bd11b0a02ca9f385ab9c259d1cde7e046
+^
+.src/killingcamp/완탐/assignment/Nquuens.java,8/1/81dbf4ac46e7a8a3a95af3f77d13fc53feac1c30
