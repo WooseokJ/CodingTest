@@ -1,0 +1,8 @@
+
+˜	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞµòÂıÿÿÿÿ8œøÅåö1J$55b7837a-d01c-4954-9c8e-4f5efe355871
+“	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì†İ‡8œøÅåö1J$1e325f94-ef07-49ab-86c0-b65aa42b1d02
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â†‰Ü8øÅåö1J$8f987818-66e4-4c61-98eb-50bb07e91fe3
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß˜±8øÅåö1J$f31e5e3a-3edf-4339-83ab-1ed960a025e2
+r	java:S106"+Replace this use of System.out by a logger.(¼Ù§ÿıÿÿÿÿ8¨øÅåö1J$4239ba13-9af8-4edf-bed3-808bfea09f4f
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¨øÅåö1J$1e238802-7dc6-40d9-b51a-e4ce892f1cd9
+ƒ	java:S1256"<This block of commented-out lines of code should be removed.(Êî–Ûøÿÿÿÿ8©øÅåö1J$0b4ea0ae-c98e-443d-80b9-a30e354a2d02
