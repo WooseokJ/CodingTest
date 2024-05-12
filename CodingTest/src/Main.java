@@ -1,5 +1,6 @@
 
 import java.util.*;
+import java.util.stream.IntStream;
 
 
 public class Main {
@@ -8,7 +9,6 @@ public class Main {
 
         StringBuilder stringBuilder = new StringBuilder("abd");
         System.out.println(stringBuilder.reverse());
-
 
     }
 }

@@ -1,9 +1,10 @@
 
-t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ğ­±Œõ1
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µĞô÷8ºåëó1J$26ada32d-4ae8-4991-8380-08858b534b44
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8‚ºåëó1J$3256d4c2-d28a-47af-a5df-d65998f74bfc
-r	java:S106"+Replace this use of System.out by a logger.(«Áèóşÿÿÿÿ8ˆºåëó1J$043ffc4a-cad7-40ae-b2c6-bba670acf571
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µĞô÷8úß£•ö1J$54e76531-8978-49de-b536-2cb7a0c10de5
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äã„Ù8ûß£•ö1J$e6a0b14d-cb7e-40c4-bc95-2967dd6afaac
+L	java:S106"+Replace this use of System.out by a logger.(«Áèóşÿÿÿÿ8ãæÊ•ö1
+l
+java:S5413")Verify that "remove()" is used correctly.(÷ä£Ô8ƒà£•ö1J$3fbf7594-ff40-4c8a-9883-c645645c2e04
 s
-java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Ê”æëó1J$47a9d0d7-bb9d-44c1-9751-6e2a8c8e966e
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18„à£•ö1J$d313e58e-0a2b-4692-b28d-d03ab083ef30
 €
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ë”æëó1J$543369fd-806b-49c6-895c-24d622046f5f
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8„à£•ö1J$75b14877-132c-4c0c-bea5-c1e9128b8230
